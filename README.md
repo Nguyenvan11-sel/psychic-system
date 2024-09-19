@@ -41,7 +41,7 @@ Create a class named Singers with the following specifications:
 - Set the values of each instance variables with the help of setters.
     Display the values.
 
-**Evaluation:**
+
 
 <table>
 <colgroup>
