@@ -1,7 +1,7 @@
 {
     "gitdoc.enabled": true,
     "git.autofetch": true,
-    "gitdoc.autoCommitDelay": 60000,
+    "gitdoc.autoCommitDelay": 0,
     "gitdoc.commitMessageFormat": "ccc, LLL d, y, h:mm a '+00:00'",
     "java.compile.nullAnalysis.mode": "automatic",
     "java.configuration.updateBuildConfiguration": "interactive",
