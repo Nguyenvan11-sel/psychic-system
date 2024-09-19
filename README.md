@@ -1,6 +1,6 @@
 # LAB #1 – Java Class
 
-## <u>Exercise 1:</u>
+## Exercise 1
 
 Write a Java application that creates a Java console application to keep
 records of singers and displays stored record. Follow the following
@@ -40,44 +40,3 @@ Create a class named Singers with the following specifications:
 
 - Set the values of each instance variables with the help of setters.
     Display the values.
-
-
-
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 49%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: left;"><strong>Functionality</strong></th>
-<th style="text-align: left;"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: left;"><blockquote>
-<p>Correct implementation of classes (instance variable declarations,
-constructors, getter and setter methods, etc.)</p>
-</blockquote></td>
-<td style="text-align: left;">45%</td>
-</tr>
-<tr>
-<td style="text-align: left;"><blockquote>
-<p>Correct implementation of driver classes (declaring and creating
-objects, calling their methods, interacting with user, displaying
-results)</p>
-</blockquote></td>
-<td style="text-align: left;">45%</td>
-</tr>
-<tr>
-<td style="text-align: left;"><strong>Friendly
-input/output</strong></td>
-<td style="text-align: left;">10%</td>
-</tr>
-<tr>
-<td style="text-align: left;"><strong>Total</strong></td>
-<td style="text-align: left;">100%</td>
-</tr>
-</tbody>
-</table>

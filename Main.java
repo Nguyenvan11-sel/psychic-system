@@ -20,7 +20,7 @@ public class Main {
     }
 }
 
-public class Singers {
+class Singers {
     // Instance variables
     private int singerId;
     private String singerName;
