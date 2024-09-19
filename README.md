@@ -1,59 +1,6 @@
-*Centennial College**
+# LAB #1 – Java Class
 
-**COMP 228: Java Programming**
-
-**LAB #1 – Java Class**
-
-**Student:**
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Due Date: Week 2
-
-Purpose: The purpose of this Lab assignment is to:
-
-- Practice the use of Java classes
-
-References: Learning materials for week 1, textbook, and other
-references (if any)
-
-This material provides the necessary information you need to complete
-the exercises.
-
-Be sure to read the following general instructions carefully:
-
-\- This lab should be completed individually by all the students.
-
-\- You will have to demonstrate your solution in a scheduled lab session
-and submitting the code through **dropbox link on eCentennial**.
-
-You must name your Eclipse project according to the following rule:
-
-**YourFullName_COMP228Labnumber**
-
-Example: **JohSmith_COMP228Lab2**
-
-Each exercise should be placed in a separate package named *exercise1*,
-*exercise2*, etc.
-
-Submit your assignment in a **zip file** that is named according to the
-following rule:
-
-**YourLastName_COMP228Labnumber.zip**
-
-Example: **JohSmith_COMP228Lab2.zip**
-
-Apply the naming conventions for variables, methods, classes, and
-packages:
-
-\- *variable names* start with a *lowercase* character
-
-\- *classes* start with an *uppercase* character
-
-\- **packages** use only *lowercase* characters
-
-\- *methods* start with a *lowercase* character
-
-**<u>Exercise 1:</u>**
+## <u>Exercise 1:</u>
 
 Write a Java application that creates a Java console application to keep
 records of singers and displays stored record. Follow the following
